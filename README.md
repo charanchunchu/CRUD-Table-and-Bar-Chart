@@ -1,5 +1,8 @@
 # AngularCrudTableBarChart
 
+Output:: ![image](https://github.com/user-attachments/assets/19cbd933-fa53-402a-9954-9da00f32d782)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
 ## Development server
